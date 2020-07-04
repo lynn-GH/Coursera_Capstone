@@ -1,0 +1,12 @@
+
+Project Title: Looking for the neighborhood with a store rental used for tea shop in San Diego city
+
+Introduction/Business Problem:
+
+Besides coffee, milk tea becomes a popular beverage now. We plan to open a tea shop in San Diego, CA. There are many neighborhoods in San Diego and the retail rental price varies among them.  So first we need to look for some neighborhoods already have good restaurants or cafes people like to go, second, the rental price should not be very high which might be over our budget.
+So in this project,
+Step 1: Scrape San Diego neighborhoods and rental market data from website
+Step 2: Obtain the geographical data of each neighborhood
+Step 3: Get the popular venues with Foursquare API
+Step 4: Use K-means to cluster the neighborhoods based on the venues and average rental price
+Step 5: Provide a discussion based on the clustering results
